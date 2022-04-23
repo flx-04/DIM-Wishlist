@@ -1,0 +1,12 @@
+title:flxy's wishlist
+description:Personal wishlist of all legendary, non-sunset weapons
+
+title:Season 10
+
+// Seventh Seraph Carbine
+//notes:[MW:Reload]
+dimwishlist:item=1561006927&perks=1840239774,1968497646,1354429876,1546637391
+dimwishlist:item=1561006927&perks=839105230,1968497646,1354429876,1546637391
+dimwishlist:item=1561006927&perks=1840239774,1968497646,1354429876,4082225868
+dimwishlist:item=1561006927&perks=839105230,1968497646,1354429876,4082225868
+dimwishlist:item=1561006927&perks=1840239774,1968497646,1354429876,3425386926
