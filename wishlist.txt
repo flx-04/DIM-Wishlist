@@ -6,6 +6,7 @@ description: Personal wishlist of all legendary, non-sunset weapons (PvE)
 // Season 12
 
 dimwishlist:item=2891672170&perks=,3142289711,3436462433,2679249093
+dimwishlist:item=2990047042&perks=,2039302152
 
 // --------------------------------------------------
 
