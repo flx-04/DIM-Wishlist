@@ -3,6 +3,221 @@ description: personal wishlist of all legendary, non-sunset weapons (only traits
 
 // --------------------------------------------------
 
+// S18
+
+
+// WHISTLER'S WHIM
+//notes:Masterwork: ['Draw Time', 'Reload']
+dimwishlist:item=1574601402&perks=,,247725512,201365942
+dimwishlist:item=1574601402&perks=,,247725512,11612903
+dimwishlist:item=1574601402&perks=,,247725512,2652708987
+
+
+// THE MILITIA'S BIRTHRIGHT
+//notes:Masterwork: ['Velocity']
+dimwishlist:item=40394833&perks=,,2039302152,3300816228
+dimwishlist:item=40394833&perks=,,1556840489,3300816228
+dimwishlist:item=40394833&perks=,,1631667848,4082225868
+
+
+// PURE POETRY
+//notes:Masterwork: ['Reload']
+dimwishlist:item=2671639706&perks=,,1428297954,4104185692
+dimwishlist:item=2671639706&perks=,,1428297954,3425386926
+dimwishlist:item=2671639706&perks=,,1168162263,4104185692
+dimwishlist:item=2671639706&perks=,,1168162263,3425386926
+
+
+// SMITE OF MERAIN
+//notes:Masterwork: ['Reload']
+dimwishlist:item=2221264583&perks=,,3523296417,3824105627
+dimwishlist:item=2221264583&perks=,,3523296417,11612903
+dimwishlist:item=2221264583&perks=,,1583705720,3824105627
+dimwishlist:item=2221264583&perks=,,1583705720,11612903
+dimwishlist:item=2221264583&perks=,,691659142,4082225868
+
+
+// NO REPRIEVE
+//notes:Masterwork: ['Reload']
+dimwishlist:item=2531963421&perks=,,3400784728,3708227201
+dimwishlist:item=2531963421&perks=,,3400784728,4082225868
+dimwishlist:item=2531963421&perks=,,3436462433,3708227201
+dimwishlist:item=2531963421&perks=,,3436462433,4082225868
+dimwishlist:item=2531963421&perks=,,1168162263,3708227201
+dimwishlist:item=2531963421&perks=,,1168162263,4082225868
+
+
+// ALLIED DEMAND
+//notes:Masterwork: ['Reload']
+dimwishlist:item=1532276803&perks=,,1820235745,4104185692
+dimwishlist:item=1532276803&perks=,,247725512,2458213969
+
+
+// BOUDICA-C
+//notes:Masterwork: ['Reload']
+dimwishlist:item=1916287826&perks=,,4071163871,4104185692
+dimwishlist:item=1916287826&perks=,,691659142,4082225868
+
+
+// DEFIANCE OF YASMIN
+//notes:Masterwork: ['Reload', 'Handling']
+dimwishlist:item=3228096719&perks=,,1556840489,1771339417
+dimwishlist:item=3228096719&perks=,,1556840489,2896038713
+dimwishlist:item=3228096719&perks=,,2621346526,1771339417
+dimwishlist:item=3228096719&perks=,,2621346526,2896038713
+
+
+// BLOOD FEUD
+//notes:Masterwork: ['Reload']
+dimwishlist:item=1509167284&perks=,,2010801679,4104185692
+dimwishlist:item=1509167284&perks=,,691659142,3592538738
+dimwishlist:item=1509167284&perks=,,691659142,4082225868
+
+
+// PIZZICATO-22
+//notes:Masterwork: ['Reload']
+dimwishlist:item=4100775158&perks=,,1428297954,691659142
+dimwishlist:item=4100775158&perks=,,1428297954,3523296417
+dimwishlist:item=4100775158&perks=,,1428297954,4082225868
+dimwishlist:item=4100775158&perks=,,2010801679,691659142
+dimwishlist:item=4100775158&perks=,,2010801679,3523296417
+dimwishlist:item=4100775158&perks=,,2010801679,4082225868
+
+
+// AMMIT AR2
+//notes:Masterwork: ['Reload']
+dimwishlist:item=2119346509&perks=,,1583705720,4049631843
+dimwishlist:item=2119346509&perks=,,1583705720,4293542123
+dimwishlist:item=2119346509&perks=,,1583705720,11612903
+dimwishlist:item=2119346509&perks=,,1583705720,1048183818
+
+
+// MIDHA'S RECKONING
+//notes:Masterwork: ['Reload']
+dimwishlist:item=3969066556&perks=,,691659142,1427256713
+dimwishlist:item=3969066556&perks=,,691659142,2610012052
+dimwishlist:item=3969066556&perks=,,2869569095,1427256713
+dimwishlist:item=3969066556&perks=,,2869569095,2610012052
+
+
+// ZAOULI'S BANE
+//notes:Masterwork: ['Reload']
+dimwishlist:item=431721920&perks=,,3038247973,4293542123
+dimwishlist:item=431721920&perks=,,3038247973,3824105627
+dimwishlist:item=431721920&perks=,,3038247973,4049631843
+dimwishlist:item=431721920&perks=,,691659142,4293542123
+dimwishlist:item=431721920&perks=,,691659142,3824105627
+dimwishlist:item=431721920&perks=,,691659142,4049631843
+
+
+// YESTERYEAR
+//notes:Masterwork: ['Reload', 'Stability']
+dimwishlist:item=1141927949&perks=,,1428297954,3047969693
+dimwishlist:item=1141927949&perks=,,1428297954,2458213969
+dimwishlist:item=1141927949&perks=,,1428297954,3592538738
+dimwishlist:item=1141927949&perks=,,1168162263,3047969693
+dimwishlist:item=1141927949&perks=,,1168162263,2458213969
+dimwishlist:item=1141927949&perks=,,1168162263,3592538738
+dimwishlist:item=1141927949&perks=,,1820235745,3592538738
+
+
+// DOOM OF CHELCHIS
+//notes:Masterwork: ['Reload']
+dimwishlist:item=1937552980&perks=,,3038247973,4049631843
+dimwishlist:item=1937552980&perks=,,3038247973,4104185692
+dimwishlist:item=1937552980&perks=,,3038247973,2896038713
+dimwishlist:item=1937552980&perks=,,3038247973,2848615171
+dimwishlist:item=1937552980&perks=,,1048183818,4049631843
+dimwishlist:item=1937552980&perks=,,1048183818,4104185692
+dimwishlist:item=1937552980&perks=,,1048183818,2896038713
+dimwishlist:item=1937552980&perks=,,1048183818,2848615171
+dimwishlist:item=1937552980&perks=,,3824105627,4049631843
+dimwishlist:item=1937552980&perks=,,3824105627,4104185692
+dimwishlist:item=1937552980&perks=,,3824105627,2896038713
+dimwishlist:item=1937552980&perks=,,3824105627,2848615171
+dimwishlist:item=1937552980&perks=,,1546637391,4049631843
+dimwishlist:item=1937552980&perks=,,1546637391,4104185692
+dimwishlist:item=1937552980&perks=,,1546637391,2896038713
+dimwishlist:item=1937552980&perks=,,1546637391,2848615171
+
+
+// TARNISHED METTLE
+//notes:Masterwork: ['Reload']
+dimwishlist:item=2218569744&perks=,,247725512,2173046394
+dimwishlist:item=2218569744&perks=,,247725512,3038247973
+dimwishlist:item=2218569744&perks=,,3523296417,2173046394
+dimwishlist:item=2218569744&perks=,,3523296417,3038247973
+
+
+// MINDBENDER'S AMBITION
+//notes:Masterwork: ['Reload', 'Handling']
+dimwishlist:item=1094005544&perks=,,3300816228,2679249093
+dimwishlist:item=1094005544&perks=,,3300816228,4293542123
+dimwishlist:item=1094005544&perks=,,1556840489,2679249093
+dimwishlist:item=1094005544&perks=,,1556840489,4293542123
+
+
+// THE INQUISITOR
+//notes:Masterwork: ['Reload', 'Handling']
+dimwishlist:item=2185327324&perks=,,3523296417,11612903
+dimwishlist:item=2185327324&perks=,,3523296417,2610012052
+dimwishlist:item=2185327324&perks=,,1428297954,4082225868
+dimwishlist:item=2185327324&perks=,,1428297954,438098033
+dimwishlist:item=2185327324&perks=,,1820235745,4082225868
+dimwishlist:item=2185327324&perks=,,1820235745,438098033
+
+
+// BRIGAND'S LAW
+//notes:Masterwork: ['Reload', 'Stability']
+dimwishlist:item=1298815317&perks=,,4071163871,2173046394
+dimwishlist:item=1298815317&perks=,,1428297954,2173046394
+dimwishlist:item=1298815317&perks=,,691659142,2173046394
+dimwishlist:item=1298815317&perks=,,691659142,4082225868
+
+
+// OUT OF BOUNDS
+//notes:Masterwork: ['Reload', 'Stability']
+dimwishlist:item=2988121501&perks=,,1820235745,11612903
+dimwishlist:item=2988121501&perks=,,1820235745,2610012052
+dimwishlist:item=2988121501&perks=,,3523296417,11612903
+dimwishlist:item=2988121501&perks=,,3523296417,2610012052
+
+
+// SAILSPY PITCHGLASS
+//notes:Masterwork: ['Charge TIme', 'Reload']
+dimwishlist:item=1184309824&perks=,,247725512,2896038713
+dimwishlist:item=1184309824&perks=,,2284787283,2896038713
+
+
+// TAIPAN-4FR
+//notes:Masterwork: ['Charge TIme', 'Reload']
+dimwishlist:item=1911060537&perks=,,3400784728,1771339417
+dimwishlist:item=1911060537&perks=,,2284787283,1771339417
+
+
+// PLANCK'S STRIDE
+//notes:Masterwork: ['Reload']
+dimwishlist:item=820890091&perks=,,1428297954,4049631843
+dimwishlist:item=820890091&perks=,,3513791699,4049631843
+
+
+// QULLIM'S TERMINUS
+//notes:Masterwork: ['Reload', 'Handling']
+dimwishlist:item=1321506184&perks=,,1583705720,557221067
+dimwishlist:item=1321506184&perks=,,1583705720,124408337
+dimwishlist:item=1321506184&perks=,,1583705720,3824105627
+dimwishlist:item=1321506184&perks=,,1583705720,3592538738
+
+
+// ROAR OF THE BEAR
+//notes:Masterwork: ['Handling']
+dimwishlist:item=4009352833&perks=,,3977735242,3300816228
+dimwishlist:item=4009352833&perks=,,951095735,3927722942
+dimwishlist:item=4009352833&perks=,,2869569095,3927722942
+
+
+// --------------------------------------------------
+
 // S17
 
 
@@ -712,8 +927,8 @@ dimwishlist:item=3257091167&perks=,,1749209109,3913600130
 
 // ZEPHYR
 //notes:Masterwork: ['Impact']
-dimwishlist:item=3400256755&perks=,,1749209109,3913600130
-dimwishlist:item=3400256755&perks=,,1749209109,3650930298
+dimwishlist:item=4203034886&perks=,,1749209109,3913600130
+dimwishlist:item=4203034886&perks=,,1749209109,3650930298
 
 
 // --------------------------------------------------
@@ -1828,7 +2043,7 @@ dimwishlist:item=1946491241&perks=,,3300816228,1683379515
 dimwishlist:item=1946491241&perks=,,1631667848,4082225868
 
 
-// IKELOS_HC_V.1.0.2
+// IKELOS_HC_V1.0.2
 //notes:Masterwork: ['Reload']
 dimwishlist:item=1200824700&perks=,,1820235745,3425386926
 dimwishlist:item=1200824700&perks=,,1820235745,1546637391
@@ -1848,7 +2063,7 @@ dimwishlist:item=1835747805&perks=,,1820235745,1546637391
 dimwishlist:item=3616586446&perks=,,3300816228,1546637391
 
 
-// IKELOS_SG_V.1.0.2
+// IKELOS_SG_V1.0.2
 //notes:Masterwork: ['Range']
 dimwishlist:item=1096206669&perks=,,1556840489,1546637391
 dimwishlist:item=1096206669&perks=,,4071163871,1546637391
@@ -1860,7 +2075,7 @@ dimwishlist:item=65611680&perks=,,2779035018,1015611457
 dimwishlist:item=65611680&perks=,,1354429876,1015611457
 
 
-// IKELOS_SR_V.1.0.2
+// IKELOS_SR_V1.0.2
 //notes:Masterwork: ['Handling', 'Reload']
 dimwishlist:item=1253087083&perks=,,3400784728,2213355989
 dimwishlist:item=1253087083&perks=,,1354429876,2213355989
@@ -1882,7 +2097,7 @@ dimwishlist:item=2742490609&perks=,,1820235745,2848615171
 dimwishlist:item=2742490609&perks=,,1820235745,1683379515
 
 
-// IKELOS_SMG_V.1.0.2
+// IKELOS_SMG_V1.0.2
 //notes:Masterwork: ['Stability']
 dimwishlist:item=2222560548&perks=,,4071163871,3708227201
 dimwishlist:item=2222560548&perks=,,1820235745,3523296417
@@ -2099,6 +2314,215 @@ dimwishlist:item=2857348871&perks=,,1749209109,2244851822
 
 // --------------------------------------------------
 
+// S8 - reissues
+
+
+// BRAYTECH WEREWOLF
+//notes:Masterwork: ['Reload']
+dimwishlist:item=528834068&perks=,,1354429876,4082225868
+dimwishlist:item=528834068&perks=,,3513791699,4082225868
+
+
+// ACCRUED REDEMPTION
+//notes:Masterwork: ['Draw Time', 'Reload']
+dimwishlist:item=4095896073&perks=,,201365942,3365897133
+dimwishlist:item=4095896073&perks=,,201365942,247725512
+dimwishlist:item=4095896073&perks=,,201365942,3425386926
+
+
+// LOUD LULLABY
+//notes:Masterwork: ['Reload']
+dimwishlist:item=3924212056&perks=,,1820235745,3038247973
+dimwishlist:item=3924212056&perks=,,1820235745,4104185692
+dimwishlist:item=3924212056&perks=,,1820235745,11612903
+dimwishlist:item=3924212056&perks=,,3161816588,3038247973
+dimwishlist:item=3924212056&perks=,,3161816588,4104185692
+dimwishlist:item=3924212056&perks=,,3161816588,11612903
+dimwishlist:item=3924212056&perks=,,3436462433,3038247973
+dimwishlist:item=3924212056&perks=,,3436462433,4104185692
+dimwishlist:item=3924212056&perks=,,3436462433,11612903
+
+
+// SACRED PROVENANCE
+//notes:Masterwork: ['Reload', 'Stability']
+dimwishlist:item=2408405461&perks=,,1168162263,1015611457
+dimwishlist:item=2408405461&perks=,,247725512,1015611457
+
+
+// BLASPHEMER
+//notes:Masterwork: ['Reload', 'Handling']
+dimwishlist:item=2782847179&perks=,,1354429876,4082225868
+dimwishlist:item=2782847179&perks=,,3436462433,4082225868
+
+
+// ONE SMALL STEP
+//notes:Masterwork: ['Reload', 'Handling']
+dimwishlist:item=1016668089&perks=,,3300816228,2679249093
+dimwishlist:item=1016668089&perks=,,3300816228,2360754333
+dimwishlist:item=1016668089&perks=,,3161816588,2679249093
+dimwishlist:item=1016668089&perks=,,3161816588,2360754333
+
+
+// TRANQUILITY
+//notes:Masterwork: ['Reload']
+dimwishlist:item=1645386487&perks=,,3300816228,1771339417
+dimwishlist:item=1645386487&perks=,,3436462433,1771339417
+
+
+// ARC LOGIC
+//notes:Masterwork: ['Reload']
+dimwishlist:item=2723909519&perks=,,3643424744,3523296417
+dimwishlist:item=2723909519&perks=,,3643424744,3425386926
+dimwishlist:item=2723909519&perks=,,3643424744,11612903
+dimwishlist:item=2723909519&perks=,,1820235745,3523296417
+dimwishlist:item=2723909519&perks=,,1820235745,3425386926
+dimwishlist:item=2723909519&perks=,,1820235745,11612903
+
+
+// RECKLESS ORACLE
+//notes:Masterwork: ['Reload']
+dimwishlist:item=3385326721&perks=,,1168162263,4082225868
+dimwishlist:item=3385326721&perks=,,1168162263,3523296417
+dimwishlist:item=3385326721&perks=,,1168162263,1015611457
+dimwishlist:item=3385326721&perks=,,3513791699,4082225868
+dimwishlist:item=3385326721&perks=,,3513791699,3523296417
+dimwishlist:item=3385326721&perks=,,3513791699,1015611457
+
+
+// DREAM BREAKER
+//notes:Masterwork: ['Charge Time', 'Reload']
+dimwishlist:item=2931957300&perks=,,1556840489,2213355989
+dimwishlist:item=2931957300&perks=,,1556840489,4104185692
+
+
+// ZEALOT'S REWARD
+//notes:Masterwork: ['Reload']
+dimwishlist:item=2209003210&perks=,,2779035018,3425386926
+
+
+// ANCIENT GOSPEL
+//notes:Masterwork: ['Reload']
+dimwishlist:item=48643186&perks=,,1168162263,1015611457
+dimwishlist:item=48643186&perks=,,1168162263,2848615171
+dimwishlist:item=48643186&perks=,,1168162263,4082225868
+dimwishlist:item=48643186&perks=,,247725512,1015611457
+dimwishlist:item=48643186&perks=,,247725512,2848615171
+dimwishlist:item=48643186&perks=,,247725512,4082225868
+
+
+// PREMONITION
+//notes:Masterwork: ['Reload']
+dimwishlist:item=208088207&perks=,,2779035018,3425386926
+
+
+// PROPHET OF DOOM
+//notes:Masterwork: ['Handling', 'Reload']
+dimwishlist:item=4020742303&perks=,,2117683199,2679249093
+
+
+// APOSTATE
+//notes:Masterwork: ['Reload']
+dimwishlist:item=2164448701&perks=,,1556840489,3038247973
+
+
+// OMNISCIENT EYE
+//notes:Masterwork: ['Reload']
+dimwishlist:item=3454326177&perks=,,1168162263,2458213969
+dimwishlist:item=3454326177&perks=,,1168162263,2848615171
+dimwishlist:item=3454326177&perks=,,3513791699,2458213969
+dimwishlist:item=3454326177&perks=,,3513791699,2848615171
+
+
+// EVERY WAKING MOMENT
+//notes:Masterwork: ['Reload', 'Stability']
+dimwishlist:item=4277547616&perks=,,1820235745,11612903
+dimwishlist:item=4277547616&perks=,,1820235745,3592538738
+
+
+// LOVE AND DEATH
+//notes:Masterwork: ['Reload']
+dimwishlist:item=3690523502&perks=,,2869569095,4049631843
+dimwishlist:item=3690523502&perks=,,2869569095,4082225868
+dimwishlist:item=3690523502&perks=,,2284787283,4049631843
+dimwishlist:item=3690523502&perks=,,2284787283,4082225868
+dimwishlist:item=3690523502&perks=,,3300816228,4049631843
+dimwishlist:item=3690523502&perks=,,3300816228,4082225868
+
+
+// A FINE MEMORIAL
+//notes:Masterwork: ['Reload']
+dimwishlist:item=3325778512&perks=,,1820235745,3523296417
+dimwishlist:item=3325778512&perks=,,1820235745,11612903
+dimwishlist:item=3325778512&perks=,,1820235745,4049631843
+dimwishlist:item=3325778512&perks=,,2284787283,3523296417
+dimwishlist:item=3325778512&perks=,,2284787283,11612903
+dimwishlist:item=3325778512&perks=,,2284787283,4049631843
+dimwishlist:item=3325778512&perks=,,3300816228,3523296417
+dimwishlist:item=3325778512&perks=,,3300816228,11612903
+dimwishlist:item=3325778512&perks=,,3300816228,4049631843
+
+
+// HERETIC
+//notes:Masterwork: ['Reload', 'Handling']
+dimwishlist:item=3067821200&perks=,,951095735,3927722942
+dimwishlist:item=3067821200&perks=,,951095735,3523296417
+
+
+// NIGHT TERROR
+//notes:Masterwork: ['Impact']
+dimwishlist:item=3870811754&perks=,,1749209109,3913600130
+
+
+// --------------------------------------------------
+
+// S7 - reissues
+
+
+// SHINING SPHERE
+//notes:Masterwork: ['Reload']
+dimwishlist:item=136525518&perks=,,2869569095,3523296417
+dimwishlist:item=136525518&perks=,,3300816228,3977735242
+
+
+// --------------------------------------------------
+
+// S6 - reissues
+
+
+// NIGHT WATCH
+//notes:Masterwork: ['Reload']
+dimwishlist:item=3504336176&perks=,,247725512,3038247973
+dimwishlist:item=3504336176&perks=,,3643424744,3038247973
+
+
+// LONESOME
+//notes:Masterwork: ['Reload']
+dimwishlist:item=2199171672&perks=,,247725512,3523296417
+dimwishlist:item=2199171672&perks=,,247725512,1015611457
+dimwishlist:item=2199171672&perks=,,247725512,2458213969
+dimwishlist:item=2199171672&perks=,,1168162263,3523296417
+dimwishlist:item=2199171672&perks=,,1168162263,1015611457
+dimwishlist:item=2199171672&perks=,,1168162263,2458213969
+
+
+// GNAWING HUNGER
+//notes:Masterwork: ['Stability']
+dimwishlist:item=821154603&perks=,,1820235745,3425386926
+dimwishlist:item=821154603&perks=,,1820235745,3523296417
+
+
+// OREWING'S MAUL
+//notes:Masterwork: ['Handling']
+dimwishlist:item=2108920981&perks=,,4071163871,3300816228
+
+
+// LAST PERDITION
+//notes:Masterwork: ['Reload']
+dimwishlist:item=188882152&perks=,,1168162263,3425386926
+
+
+// --------------------------------------------------
+
 // S5 - reissues
 
 
@@ -2218,7 +2642,7 @@ dimwishlist:item=2721249463&perks=,,201365942,3365897133
 dimwishlist:item=2721249463&perks=,,201365942,3425386926
 
 
-// MAIN INGRIDIENT
+// MAIN INGREDIENT
 //notes:Masterwork: ['Reload', 'Charge TIme']
 dimwishlist:item=253196586&perks=,,3300816228,2213355989
 
